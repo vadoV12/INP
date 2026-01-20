@@ -1,4 +1,4 @@
-                                                                                    INP Projects 2025/26
+INP Projects 2025/26
 Two hardware design and low-level programming projects exploring processor architecture and assembly language implementation.📋 OverviewCourse: INP – Design of Computer Systems
 Institution: FIT VUT Brno
 Academic Year: 2025/26This repository contains solutions to two fundamental projects in computer architecture: implementing a BrainF*ck processor in VHDL and creating a vowel encryption cipher in MIPS64 assembly.Project 1: Simple Instruction Set Processor
